@@ -1,0 +1,215 @@
+/* DESKTOP VERSION */ 
+body{
+        font-family: 'Inter', sans-serif;
+    }
+    
+    .nav-link{
+        padding-right: 10px;
+        margin-right: 10px;
+    }
+
+    .hero h1{
+        text-align: left;
+        font-size: 75px;
+        font-weight:600;
+        color: #1D1D1F;
+        font-family: 'Inter', sans-serif;
+        letter-spacing: auto;
+        line-height: 1;
+        margin-bottom: 30px;
+        margin-top: 24px;
+    }
+    
+    .hero p{
+        font-family: 'Poppins', sans-serif;
+        font-size: 20px; 
+        margin-bottom: 34px;
+        text-align: left;
+    }
+    
+    .hero{
+        margin-top: 50px;
+    }
+
+    .d-flex :hover{
+        color: #06C167; 
+    }
+    .category_section{
+        margin-top: 100px;
+    }
+    
+    .btn-success{
+        background-color: #06C167;
+        width: 200px;
+        height: 68px;
+    }
+    
+    .btn-warning hover{
+        background-color: #06C167;
+    }
+    
+    .Hero_Section{
+        background-color:#F3FCF7;
+    }
+    
+    .Hero_Section span{
+        color: #DF6951;
+        
+    }
+    
+    
+    .navbar-nav{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 20px;
+        color: #212832;
+    }
+    
+    
+    .row p{
+        padding-top: 15px;
+    }
+    
+    .item{
+        text-align: center;
+    }
+    
+    .row img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    
+    .benefit_section h1{
+        font-size: 60px;
+    }
+    
+    .media{
+        margin-top: 40px;
+        margin:0px;
+    }
+    
+    .benefit h1{
+        background-image: url(images/polca.png);
+        background-repeat: no-repeat;
+    }
+    
+    .benefit_section{
+        margin-top: 100px;
+    }
+    
+    .popular_section{
+        margin-top: 100px;
+    }
+    
+    .Footer_Section{
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+    
+    .Footer_Section a{
+        text-decoration: none;
+        color: #1D1D1F;
+     
+    }
+    
+    .ml-auto, .mx-auto {
+        margin-left: auto!important;
+        color:#1D1D1F;
+    }
+    
+    .nav-item :hover{
+        color: #06C167;
+    }
+
+    .info-service img{
+        float: left;
+        margin-right: 20px;
+        margin-bottom: 20px;
+
+    }
+
+    .info-service p{
+     padding-top: 5px;
+
+    }
+
+    .list-unstyled{
+        float: left;
+    }    
+
+ 
+
+/* MOBILE VERSION */
+ @media (min-width: 576px) and (max-width: 768px) { 
+     .navbar-brand{
+        padding-bottom: 10px;
+     }
+
+     .nav-link{
+         padding-top: 10px;
+     }
+
+     .hero{
+         padding-top: 51px;
+         text-align: center;
+     }
+
+     .heading h1{
+         text-align:center ;
+     }
+
+     .heading p{
+        text-align:center ;
+    }
+
+    .btn-success{
+        margin-top: 51px;
+        margin-bottom: 47px;
+        Width: 320px;
+    }
+
+    .hero img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-repeat: no-repeat;
+    
+    }
+    .info-service{
+        width: 100%;
+    }
+
+    .benefit{
+        text-align: center;
+        padding-top: 57px;
+    }
+
+    .body{
+        text-align: center;
+    }
+
+    .popular_section{
+        width: 100%;
+    }
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
